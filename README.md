@@ -7,7 +7,7 @@ Me in few words:
    -  highly motivated to acquire new skills and qualifications,     
    -  prepared to expand my knowledge in the field of software testing.
    
-   # dokumentation
+   # documentation
    # skills
    # tools
    # courses
