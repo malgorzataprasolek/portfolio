@@ -1,13 +1,36 @@
-# profile
-My name is Gosia and I am Junior Quality Assurance. 
-I spent most of my career in graphic design, running my studio. During this work, I not only designed but also analyzed the client's needs, documented them, and ensured quality in every aspect of product development - from the idea to printing or electronic publication. 
-
-Me in few words:
-   -  thorough and sensitive to detail,
-   -  highly motivated to acquire new skills and qualifications,     
-   -  prepared to expand my knowledge in the field of software testing.
+## SAMPLE DOCUMENTATION
+ 1. Allegro Sandbox
+  - [TEST PLAN](https://drive.google.com/file/d/1-s2s8lVzpFRegnFMxN1YCuPg4b_tmuGn/view?usp=sharing)
+  - BUG REPORTS
+  - [SCENARIOS & TEST CASES](https://docs.google.com/spreadsheets/d/1FmLWuQ268Wn0Bb6EBjwYPOnK8qdyLQ_-/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
+  - [FINAL REPORT](https://drive.google.com/file/d/1aOnrtaCJJ3sIZVQKmeEUxyYZN-QsoaHf/view?usp=sharing)
+## COURSES
+### Szkolenie dla QA | Adam Gola | [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/)
+ - the necessary theory with practice,
+ - tools used in the QA work,
+ - testing practice,
+ - quality assurance: problem analysis and solutions, standards 
+   and good practices,
+ - creating documentation,
+ - additional aspects of Quality Assurance.
+ ## SKILLS
+ - software manual testing,
+ - creating documentation,
+ - basics HTML/CSS,
+ - basics REST API,
+ - basics DoR, DoD,
+ - knowledge of SCRUM methodology,
+ - English B1,
+ - ISTQB FL knowledge.
+ ## TOOLS
+ - DevTools,
+ - BrowserStack,
+ - Sizzy,
+ - JIRA,
+ - Trello,
+ - Slack,
+ - basics Postman,
+ - Adobe Illustrator,
+ - Adobe Indesign,
+ - Corel Draw.
    
-   # documentation
-   # skills
-   # tools
-   # courses
