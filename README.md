@@ -26,7 +26,7 @@
  - creating documentation,
  - basics HTML/CSS,
  - basics REST API,
- - basics DoR, DoD,
+ - DoR, DoD,
  - knowledge of SCRUM methodology,
  - English B1,
  - ISTQB FL knowledge.
