@@ -41,4 +41,7 @@
  - Adobe Illustrator,
  - Adobe Indesign,
  - Corel Draw.
+## BOOKS
+ - Pasja Testowania - Krzysztof Jadczak,
+ - Podróż przez świat testowania - Karolina Pawłowska, Natalia Pawlak.
    
