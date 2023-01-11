@@ -1,7 +1,7 @@
 ## SAMPLE DOCUMENTATION
  1. Allegro Sandbox
   - [TEST PLAN](https://drive.google.com/file/d/1-s2s8lVzpFRegnFMxN1YCuPg4b_tmuGn/view?usp=sharing)
-  - [BUG REPORTS](https://docs.google.com/spreadsheets/d/1nFjuXjIoRcIHUIgTuaOsQodH4Y9VAU9H/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
+  - [BUG REPORT](https://docs.google.com/spreadsheets/d/1nFjuXjIoRcIHUIgTuaOsQodH4Y9VAU9H/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
   - [SCENARIOS & TEST CASES](https://docs.google.com/spreadsheets/d/1FmLWuQ268Wn0Bb6EBjwYPOnK8qdyLQ_-/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
   - [FINAL REPORT](https://drive.google.com/file/d/1aOnrtaCJJ3sIZVQKmeEUxyYZN-QsoaHf/view?usp=sharing)
 ## COURSES
