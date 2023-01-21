@@ -16,6 +16,8 @@
    and good practices,
  - creating documentation,
  - additional aspects of Quality Assurance.
+
+
 [CERTIFICATE](https://drive.google.com/file/d/1wVH_CU3H-WQ-cXQoM3HE4WCdkpxXMN33/view?usp=sharing)
  ### Podstawy manualnego testowania oprogramowania | Udemy | Tester Oprogramowania
  - basics of testing web applications,
@@ -24,7 +26,9 @@
  - create a bug report,
  - how to stand out on the job market,
  - fundamentals of application architecture.  
- [CERTIFICATE](https://www.udemy.com/certificate/UC-81eceeea-9d77-414b-8370-e4ec7e28bbaf/)
+
+
+[CERTIFICATE](https://www.udemy.com/certificate/UC-81eceeea-9d77-414b-8370-e4ec7e28bbaf/)
  ## SKILLS
  - software manual testing,
  - creating documentation,
