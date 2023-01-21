@@ -4,6 +4,9 @@
   - [BUG REPORT](https://docs.google.com/spreadsheets/d/1nFjuXjIoRcIHUIgTuaOsQodH4Y9VAU9H/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
   - [SCENARIOS & TEST CASES](https://docs.google.com/spreadsheets/d/1FmLWuQ268Wn0Bb6EBjwYPOnK8qdyLQ_-/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
   - [FINAL REPORT](https://drive.google.com/file/d/1aOnrtaCJJ3sIZVQKmeEUxyYZN-QsoaHf/view?usp=sharing)
+  2. Generic Shop (Test Sklep by Test Army) 
+  - [BUG REPORT](https://docs.google.com/spreadsheets/d/1WJGK0k3Cyss8tVLi5-lDoMmwnbDLs946/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
+  - [SCENARIOS & TEST CASES](https://docs.google.com/spreadsheets/d/1ElBdlNvt9O1XRavXVJe5rKV7uEJmzf-M/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
 ## COURSES
 ### Szkolenie dla QA | Adam Gola | [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/)
  - the necessary theory with practice,
@@ -13,6 +16,7 @@
    and good practices,
  - creating documentation,
  - additional aspects of Quality Assurance.
+[CERTIFICATE](https://drive.google.com/file/d/1wVH_CU3H-WQ-cXQoM3HE4WCdkpxXMN33/view?usp=sharing)
  ### Podstawy manualnego testowania oprogramowania | Udemy | Tester Oprogramowania
  - basics of testing web applications,
  - testing theory,
@@ -27,8 +31,8 @@
  - basics HTML/CSS,
  - basics REST API,
  - DoR, DoD,
- - knowledge of SCRUM methodology,
- - English B1,
+ - awareness of SCRUM methodology,
+ - B1 English,
  - ISTQB FL knowledge.
  ## TOOLS
  - DevTools,
@@ -36,7 +40,6 @@
  - Sizzy,
  - JIRA,
  - Trello,
- - Slack,
  - basics Postman,
  - Adobe Illustrator,
  - Adobe Indesign,
@@ -44,4 +47,9 @@
 ## BOOKS
  - Pasja Testowania - Krzysztof Jadczak,
  - Podróż przez świat testowania - Karolina Pawłowska, Natalia Pawlak.
+## NEWSLETTERS
+ - QA Weekly - Adam Gola
+ - #TestowaŚroda - Bartek Kita
+## YOUTUBE
+ - ITeaMorning - Maciej Wyrodek
    
