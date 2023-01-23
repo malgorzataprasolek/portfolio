@@ -6,7 +6,7 @@
   - [FINAL REPORT](https://drive.google.com/file/d/1aOnrtaCJJ3sIZVQKmeEUxyYZN-QsoaHf/view?usp=sharing)
   2. Generic Shop (Test Sklep by Test Army) 
   - [BUG REPORT](https://docs.google.com/spreadsheets/d/1WJGK0k3Cyss8tVLi5-lDoMmwnbDLs946/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
-  - [SCENARIOS & TEST CASES](https://docs.google.com/spreadsheets/d/1ElBdlNvt9O1XRavXVJe5rKV7uEJmzf-M/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
+  - [SCENARIO & TEST CASES](https://docs.google.com/spreadsheets/d/1ElBdlNvt9O1XRavXVJe5rKV7uEJmzf-M/edit?usp=sharing&ouid=109511356163901530837&rtpof=true&sd=true)
 ## COURSES
 ### Szkolenie dla QA | Adam Gola | [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/)
  - the necessary theory with practice,
@@ -16,10 +16,16 @@
    and good practices,
  - creating documentation,
  - additional aspects of Quality Assurance.
+ 
+ [CERTIFICATE](https://drive.google.com/file/d/1wVH_CU3H-WQ-cXQoM3HE4WCdkpxXMN33/view?usp=sharing)
+ 
+ ### DevTools | Adam Gola | [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/)
+ - basics of using the developer console.
 
 
-[CERTIFICATE](https://drive.google.com/file/d/1wVH_CU3H-WQ-cXQoM3HE4WCdkpxXMN33/view?usp=sharing)
- ### Podstawy manualnego testowania oprogramowania | Udemy | Tester Oprogramowania
+[CERTIFICATE](https://drive.google.com/file/d/1O4p-rcJFyJ5gMRGqAVpeUB2t_Wgnt3K_/view?usp=sharing)
+
+### Podstawy manualnego testowania oprogramowania | Udemy | Tester Oprogramowania
  - basics of testing web applications,
  - testing theory,
  - create test cases,
